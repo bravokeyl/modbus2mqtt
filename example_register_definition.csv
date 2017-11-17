@@ -8,7 +8,7 @@
 # The function code used for reading is READ REGISTER (4), which is default
 # Data format for all registers is float. Polling interval is 15s.
 #
-# All those defaults are set with a magic "DEFAULT" topic definition and
+# All those defaults are set with a magic DEFAULT topic definition and
 # are then inherited by subsequent register definitions.
 DEFAULT,,2,>f:%.1f,15,1,4
 # 
