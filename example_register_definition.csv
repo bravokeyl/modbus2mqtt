@@ -1,7 +1,7 @@
 "Topic","Register","Size","Format","Frequency","Slave","FunctionCode"
 DEFAULT,,2,>f:%.1f,15,1,4
-phase1/voltage,0
-phase2/voltage,2
+phase1/voltage,0,,,,,,
+phase2/voltage,2,,,,,,
 phase3/voltage,4
 phase1/power,12
 phase2/power,14
